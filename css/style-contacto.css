@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(199, 247, 247);
+}
+nav{
+    background-color: rgb(56,55,55);
+}
+.card.targeta{
+    background-color: rgb(199, 247, 247);
+    border: none;
+    width: 150%;
+    height: 61vh;
+
+}
+
+    
+footer{
+    background-color:#007bff ;
+    height: 165px;
+    
+    
+}
+img{
+    width: 20%;
+}
+.card.targeta1{
+    border: none;
+    background-color: rgb(199, 247, 247);
+}
